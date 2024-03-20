@@ -1,5 +1,5 @@
 {
-    "name": "gghughunishvili/entrust",
+    "name": "sewidan/entrust",
     "description": "This package provides a flexible way to add Role-based Permissions to Laravel/Lumen 6",
     "keywords": [
         "laravel",
@@ -34,7 +34,7 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
+        "php": "^8.1",
         "illuminate/console": "~6.0|^7.0|^8.0|^9.0|^10.0",
         "illuminate/support": "~6.0|^7.0|^8.0|^9.0|^10.0",
         "illuminate/cache": "~6.0|^7.0|^8.0|^9.0|^10.0"
